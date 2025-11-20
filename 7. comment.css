@@ -435,6 +435,12 @@ textarea {
         align-items: flex-start;
         gap: 5px;
     }
+     .insert-name{
+        font-size: 10px;
+    }    
+     h3{
+        font-size: 15px;
+    }
     
     /* ✅ កែត្រង់នេះ - ប៊ូតុងនៅទន្ទឹមគ្នា */
     .comment-actions {
@@ -499,7 +505,7 @@ textarea {
         font-weight: bold;
     }
     h3{
-        font-size: 17px;
+        font-size: 15px;
     }
     .submit-btn{
         font-family: "siemreap";
